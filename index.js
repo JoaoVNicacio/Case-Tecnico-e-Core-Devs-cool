@@ -36,7 +36,7 @@ function addPerson() {
     let nameInput = prompt(`What's the name of the new person? `);
     let ageInput = parseInt(prompt(`What's the age of the new person? `));
 
-    // Re-enter the age if it´s less than 0, not a number, null or undefined:
+    // Re-enter the age if it´s less than 0:
     while (ageInput < 0) {
         ageInput = prompt(`${ageInput} is not a valid age, please enter a valid one. `);
     }
