@@ -41,7 +41,7 @@ João Victor Nicácio
 
 - It must be possible to categorize people by age, Following the criteria: 0 up to 12 years => Child, 12 up to 19 years => Teenager, 20 up to 65 => Adult, 65 or more => Elder.
 
-### Tests, instructions e features:
+### Tests, instructions and features:
 
 - the data is added to an object array.
 
