@@ -54,7 +54,7 @@ João Victor Nicácio
 > This solution can be tested by pasting and executing the index.js code on the browser console or if you prefer...
 >
 >> [Test it on repl.it](https://replit.com/join/tzvtjaxbyx-joaovictor75)
->> Or copy the link link: https://replit.com/join/tzvtjaxbyx-joaovictor75
+>> Or copy the link: https://replit.com/join/tzvtjaxbyx-joaovictor75
 
 
 
